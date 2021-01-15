@@ -1,1 +1,9 @@
 
+@inproceedings{zhang2017tacred,
+  author = {Zhang, Yuhao and Zhong, Victor and Chen, Danqi and Angeli, Gabor and Manning, Christopher D.},
+  booktitle = {Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP 2017)},
+  title = {Position-aware Attention and Supervised Data Improve Slot Filling},
+  url = {https://nlp.stanford.edu/pubs/zhang2017tacred.pdf},
+  pages = {35--45},
+  year = {2017}
+}
